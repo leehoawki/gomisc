@@ -1,0 +1,4 @@
+window.envs = {
+    'gateway': '{{gateway}}',
+    'login': '{{login}}',
+}
